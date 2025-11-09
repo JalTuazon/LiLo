@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LiLo/1.0.0": {
+        "dependencies": {
+          "FloresDormitoryMS": "1.0.0"
+        },
+        "runtime": {
+          "LiLo.dll": {}
+        }
+      },
+      "FloresDormitoryMS/1.0.0": {
+        "runtime": {
+          "FloresDormitoryMS.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LiLo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FloresDormitoryMS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
